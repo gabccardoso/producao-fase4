@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class RabbitMQConfig {
 
-    private final String rabbitHost = "ec2-54-173-136-137.compute-1.amazonaws.com";
+    private final String rabbitHost = "ec2-100-26-122-241.compute-1.amazonaws.com";
     private final String rabbitUsername = "guest";
     private final String rabbitPassword = "guest";
 
